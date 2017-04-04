@@ -19,7 +19,7 @@ public class Cadena10
 		}
 		return sub;
 	}
-	
+	//Comentario
 	public static void main(String[] args) throws IOException
 	{
 		BufferedReader lectura = new BufferedReader(new InputStreamReader(System.in));
